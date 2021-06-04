@@ -4,3 +4,8 @@ kheer
 pasta
 sambar
 dosa
+ beans 
+ 
+ pizza
+ 
+ thank you
